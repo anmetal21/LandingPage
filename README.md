@@ -2,9 +2,17 @@
 Web design layout practice
 
 
+Credits:
 
-Betta Logo Credit:
-https://unsplash.com/@kyawthutun
+Boston Terrier Logo:
+https://www.vecteezy.com/free-vector/boston-terrier 
+Boston Terrier Vectors by Vecteezy
 
-Red Betta credit:
-Photo by Chevanon Photography: https://www.pexels.com/photo/close-up-of-a-red-siamese-fighting-fish-325044/
+Teddy Bear:
+Photo by Pixabay: https://www.pexels.com/photo/adorable-close-up-cute-downy-264907/
+
+Dog food:
+Photo by MART PRODUCTION: https://www.pexels.com/photo/hand-putting-dog-treats-on-bowl-8434637/
+
+Letter:
+Photo by John-Mark Smith: https://www.pexels.com/photo/brown-paper-envelope-on-table-211290/

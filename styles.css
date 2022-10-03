@@ -1,0 +1,189 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header {
+    padding-bottom: 50px;
+    background-color: whitesmoke;;
+}
+.headerimg {
+    width: 150px;
+    height: auto;
+}
+
+.headerimg2 {
+    border-radius: 25px;
+    height: 300px;
+    border: 5px solid darkgrey;
+}
+
+.headbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightgray ;
+}
+
+.logo {
+    display: flex;
+}
+
+.headerlinks {
+    display: flex;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.headbody {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+
+}
+
+.headbodyl {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.headbodyr {
+    display: flex;
+    align-items: center;
+}
+
+.Intro {
+    font-size: 180%;
+    font-weight: 900;
+    margin-bottom: 16px;
+    display: flex;
+    
+}
+
+.Introtext {
+    width: 450px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.button1 {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: max-content;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+    background-color: white;
+
+}
+
+.bodytitle {
+    align-self: center;
+}
+.infopix{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pixitems {
+    display: flex;
+    width: 800px;
+    height: auto;
+    gap: 30px;
+    justify-content: center;
+}
+
+.item {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    border: 5px solid darkgrey;
+    
+}
+
+.captions {
+    display: flex;
+    gap: 65px;
+    justify-content: center;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: grey;
+    padding: 100px;
+}
+
+.quotetext {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.whosaidit {
+    display: flex;
+    justify-content: center;
+    padding-left: 150px;
+    font-weight:bolder;
+}
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+}
+.signupbox {
+    display:flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 40px;
+    background-color: rgb(186, 134, 229);
+    color: white;
+    width: 700px;
+    border-radius: 25px;
+}
+    
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    padding: 40px;
+}
+
+.signr {
+    display: flex;
+    align-items: center;
+}
+
+.sign2 {
+    background-color: rgb(186, 134, 229);
+    border-radius: 25px;
+    border: 3px solid gold;
+    color: white;
+    
+
+}
